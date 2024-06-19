@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Mohamed Yassin</h1>
 <h3 align="center">Passionate Junior Front-End Developer with a passion forcreating responsive, user-friendly web interfaces.</h3>
 
@@ -6,7 +8,6 @@
 🔭 I’m currently working on E-Commerce app https://nextgamesstore.vercel.app/<br><br>🌱 I’m currently learning Backend (Node JS)<br><br>👨‍💻 All of my projects are available at https://mohamed-yassin.vercel.app/<br><br>📫 How to reach me mohamedyas8295@gmail.com<br><br>📄 Know about my experiences https://mega.nz/file/1qUBEKyB#AFj_dj7m2y9NMS-VEz2HebJgdNZbNBrto-56sgXME78
 
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Mohamed Yassin</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yas8295&label=Profile%20views&color=0e75b6&style=flat" alt="yas8295" /> </p>
 
