@@ -8,8 +8,6 @@
 🔭 I’m currently working on E-Commerce app https://nextgamesstore.vercel.app/<br><br>🌱 I’m currently learning Backend (Node JS)<br><br>👨‍💻 All of my projects are available at https://mohamed-yassin.vercel.app/<br><br>📫 How to reach me mohamedyas8295@gmail.com<br><br>📄 Know about my experiences https://mega.nz/file/1qUBEKyB#AFj_dj7m2y9NMS-VEz2HebJgdNZbNBrto-56sgXME78
 
 
-<h1 align="center">Hi 👋, I'm Mohamed Yassin</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yas8295&label=Profile%20views&color=0e75b6&style=flat" alt="yas8295" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yas8295&theme=" alt="yas8295" /></a> </p>
 
