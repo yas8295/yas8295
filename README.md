@@ -29,9 +29,9 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yas8295&layout=compact&theme=dracula" alt=yas8295 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yas8295&layout=compact&theme=dracula" alt=yas8295 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=yas8295&show_icons=true&locale=en&theme=dracula" alt="yas8295" /></p>
+<p>&nbsp;<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=yas8295&show_icons=true&locale=en&theme=dracula" alt="yas8295" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yas8295&theme=dracula" alt="yas8295" /></p>
 
