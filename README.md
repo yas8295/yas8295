@@ -90,8 +90,11 @@
 
 <h3 align="center">🤝 Let's Connect</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://wa.me/201280739906" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+  <a href="https://mohamed-yassin.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="mailto:mohamedyas8295@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
@@ -101,9 +104,3 @@
   </a>
 </p>
 
-<br>
-
-<h3 align="center">⚡ GitHub Trophies</h3>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yas8295&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=3" alt="yas8295's trophies" />
-</div>
