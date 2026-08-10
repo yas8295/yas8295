@@ -17,8 +17,6 @@
   # ɪ'ᴍ ᴍᴏʜᴀᴍᴇᴅ ʏᴀssɪɴ!
   # *Senior Fullstack Developer*
 </div>
-<br />
-
 <!--Start Intro-->                         
 <p align="left">I am a Senior Fullstack Developer with 5+ years of experience architecting and building scalable, high-performance web and mobile applications using React, Next.js, React Native, Node.js, and Express.</p>
 
