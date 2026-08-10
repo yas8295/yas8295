@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <!--Night Owl image-->
 <div>
-  <picture align="right" width="20%">
+  <picture align="right" width="40%">
     <source media="(prefers-color-scheme: dark)" srcset="./Robot Says Hi.gif">
     <source media="(prefers-color-scheme: light)" srcset="./Robot Says Hi.gif">
     <img align="right" width="40%" alt="Skills Animation" src="./Robot Says Hi.gif" width="100%" height="100%">
