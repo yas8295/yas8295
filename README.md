@@ -57,6 +57,12 @@
 * **Edu Station:** A comprehensive digital platform specialized in guiding students and securing international university admissions, providing seamless academic consultation and streamlined pathways for studying abroad.
 * **Gefco (Al-Tamayouz Al-Zahaby):** A corporate digital platform and showcase system for a leading manufacturing and contracting company specializing in architectural glass, aluminum thermal break, and structural facades in Saudi Arabia.
 
+<h3 align="center">📊 GitHub Metrics</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yas8295&style=flat-square&color=blue" alt="Profile Views" />
+  <a href="https://github.com/yas8295"><img src="https://img.shields.io/github/followers/yas8295?label=Followers&style=social" alt="Followers" /></a>
+</p>
+
 <h3 align="center">📊 GitHub Statistics & Insights</h3>
 <div align="center">
   
