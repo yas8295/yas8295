@@ -5,7 +5,7 @@
   <picture align="right" width="20%">
     <source media="(prefers-color-scheme: dark)" srcset="./Robot Says Hi.gif">
     <source media="(prefers-color-scheme: light)" srcset="./Robot Says Hi.gif">
-    <img align="right" width="10%" alt="Skills Animation" src="./Robot Says Hi.gif" width="100%" height="100%">
+    <img align="right" width="40%" alt="Skills Animation" src="./Robot Says Hi.gif" width="100%" height="100%">
 </div>
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴍᴏʜᴀᴍᴇᴅ ʏᴀssɪɴ! 
