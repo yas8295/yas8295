@@ -6,11 +6,8 @@
 </div>
     
 <!--Header Name-->
-# <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./Robot Says Hi.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./Robot Says Hi.gif">
-    <img width="120" alt="Skills Animation" src="./Robot Says Hi.gif"> ɪ'ᴍ ᴍᴏʜᴀᴍᴇᴅ ʏᴀssɪɴ! 
-*Senior Fullstack Developer*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
+*Digital Craftsman (Developer / Programmer)*
 <br />  
 
 <!--Start Intro-->                         
