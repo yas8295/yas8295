@@ -8,10 +8,10 @@
     
 <!--Header Name-->
 <div align="left">
-  <picture  align="left">
+  <picture">
     <source media="(prefers-color-scheme: dark)" srcset="./Robot Says Hi.gif">
     <source media="(prefers-color-scheme: light)" srcset="./Robot Says Hi.gif">
-    <img  align="left" width="170" alt="Robot Animation" src="./Robot Says Hi.gif">
+    <img align="left" width="170" alt="Robot Animation" src="./Robot Says Hi.gif">
   </picture>
 
   ## ɪ'ᴍ ᴍᴏʜᴀᴍᴇᴅ ʏᴀssɪɴ!
