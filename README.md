@@ -26,12 +26,14 @@
 
 ---
 
-<!--Languages and Tools Section-->         
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
+<!--Languages and Tools Section--> 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+    <img alt="Skills Animation" src="./Skills_Animation_White.gif" width="100%">
+  </picture>
+</div>
 
 <div style="width:100%; overflow:hidden; background:transparent;">
   <p align="center">
