@@ -1,13 +1,18 @@
 <!--Banner-->
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
     
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
-*Digital Craftsman (Developer / Programmer)*
+# <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Robot Says Hi.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Robot Says Hi.gif">
+    <img width="120" alt="Robot Animation" src="./Robot Says Hi.gif">
+</picture> ɪ'ᴍ ᴍᴏʜᴀᴍᴇᴅ ʏᴀssɪɴ! 
+*Senior Fullstack Developer*
 <br />  
 
 <!--Start Intro-->                         
@@ -94,29 +99,33 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yas8295&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
-
-
+<br />
 <h3 align="center">🤝 Let's Connect</h3>
 <p align="center">
   <a href="https://wa.me/201280739906" target="_blank">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./whatsapp loop.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./whatsapp loop.gif">
-    <img alt="Skills Animation" src="./whatsapp loop.gif" width="60px" height="60px">
-  </picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./whatsapp loop.gif">
+      <source media="(prefers-color-scheme: light)" srcset="./whatsapp loop.gif">
+      <img alt="WhatsApp" src="./whatsapp loop.gif" width="60px" height="60px">
+    </picture>
   </a>
+  &nbsp;&nbsp;
   <a href="https://mohamed-yassin.vercel.app/" target="_blank">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./Globe.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./Globe.gif">
-    <img alt="Skills Animation" src="./Globe.gif" width="60px" height="60px">
+      <source media="(prefers-color-scheme: dark)" srcset="./Globe.gif">
+      <source media="(prefers-color-scheme: light)" srcset="./Globe.gif">
+      <img alt="Portfolio" src="./Globe.gif" width="60px" height="60px">
+    </picture>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:mohamedyas8295@gmail.com" target="_blank">
-   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./Gmail.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./Gmail.gif">
-    <img alt="Skills Animation" src="./Gmail.gif" width="60px" height="60px">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./Gmail.gif">
+      <source media="(prefers-color-scheme: light)" srcset="./Gmail.gif">
+      <img alt="Email" src="./Gmail.gif" width="60px" height="60px">
+    </picture>
   </a>
 </p>
+<br />
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
