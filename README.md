@@ -99,7 +99,11 @@
 <h3 align="center">🤝 Let's Connect</h3>
 <p align="center">
   <a href="https://wa.me/201280739906" target="_blank">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTN5cXY3ejQ5ZzZoMWt1YnQwc2l5bWpwNXUxNWxqOXJ0djIyb2JqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Af30iuHK6zgZzeBS35/giphy.gif" alt="WhatsApp Badge"/>
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="[./Skills_Animation_Dark.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTN5cXY3ejQ5ZzZoMWt1YnQwc2l5bWpwNXUxNWxqOXJ0djIyb2JqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Af30iuHK6zgZzeBS35/giphy.gif)">
+    <source media="(prefers-color-scheme: light)" srcset="[./Skills_Animation_White.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTN5cXY3ejQ5ZzZoMWt1YnQwc2l5bWpwNXUxNWxqOXJ0djIyb2JqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Af30iuHK6zgZzeBS35/giphy.gif)">
+    <img alt="Skills Animation" src="[./Skills_Animation_White.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTN5cXY3ejQ5ZzZoMWt1YnQwc2l5bWpwNXUxNWxqOXJ0djIyb2JqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Af30iuHK6zgZzeBS35/giphy.gif)" width="60%">
+  </picture>
   </a>
   <a href="https://mohamed-yassin.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
