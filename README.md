@@ -1,6 +1,5 @@
 <!--Banner-->
-![Mohamed Ahmed Banner Image](./banner.png)
-
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
@@ -65,6 +64,12 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
 </div>
 
+<div style="width:100%; overflow:hidden; background:transparent;">
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%26+Next.js+Expert;Node.js+%26+Backend+Architect;Building+Scalable+Web+Apps" alt="Typing Animation" />
+  </p>
+</div>
+
 <h3 align="left">Key Projects</h3>
 <ul align="left">
   <li><strong>Rouqy:</strong> A multi-vendor jewelry e-commerce platform and mobile app featuring interactive auctions, integrated online academies, and detailed vendor dashboards.</li>
@@ -118,37 +123,23 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yas8295&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
----
 
-<!--Thought of the Day--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
-<!--STARTS_HERE_QUOTE_CARD-->
+<h3 align="center">🤝 Let's Connect</h3>
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Epictetus&quote=Seek%20not%20the%20good%20in%20external%20things%3Bseek%20it%20in%20yourselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+  <a href="https://wa.me/201280739906" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+  <a href="https://mohamed-yassin.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="mailto:mohamedyas8295@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://github.com/yas8295" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
 </p>
-<!--ENDS_HERE_QUOTE_CARD-->
-<br />
 
-<!--Contact Section--> 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
-  
-<a href="mailto:mohamedyas8295@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="mohamedyas8295@gmail.com" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://github.com/yas8295" target="_blank">
-<img src="./github.png" width=50 height=50 alt="yas8295" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/mohamedyassin" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-</div>
-<br/>
-
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+ملخص التحديثات:
