@@ -5,6 +5,13 @@
 
 ---
 
+## 🚀 Animated Skills Marquee
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,sass,nodejs,express,mongodb,postgresql,firebase,redis,docker,git,github,postman,jest,vscode,linux" />
+</p>
+
+---
+
 # 💫 About Me:
 🔭 I’m currently leading development on high-scale web and mobile applications.<br><br>
 🌱 I’m currently focused on advanced backend architectures, microservices, and cloud systems.<br><br>
@@ -17,32 +24,7 @@
   <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-  
-  <!-- Frontend & Mobile -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Nextjs" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-  
-  <!-- Backend & Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="Mongodb" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
-
-  <!-- Tools & Management -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
-</p>
+---
 
 # 💼 Professional Experience:
 ### **Senior Frontend Team Leader | ZH-Innovation** *(Mar 2020 – Present • Ismailia, Egypt)*
@@ -52,10 +34,14 @@
 * Spearheading the development of cross-platform mobile apps using React Native, achieving seamless native performance and shared business logic.
 * Integrated complex third-party services including secure payment gateways, real-time WebSockets chat systems, and push notifications.
 
+---
+
 # 🚀 Key Projects:
 * **Rouqy:** Engineered a multi-vendor jewelry e-commerce platform and mobile app featuring interactive auctions, integrated online academies, and detailed vendor dashboards.
 * **Edu Station:** A comprehensive digital platform specialized in guiding students and securing international university admissions, providing seamless academic consultation and streamlined pathways for studying abroad.
 * **Gefco (Al-Tamayouz Al-Zahaby):** A corporate digital platform and showcase system for a leading manufacturing and contracting company specializing in architectural glass, aluminum thermal break, and structural facades in Saudi Arabia.
+
+---
 
 <h3 align="center">📊 GitHub Metrics</h3>
 <p align="center">
@@ -88,6 +74,17 @@
   
 </div>
 
+<br>
+
+<!-- إضافة شريط الجوائز المتحرك -->
+<h3 align="center">🏆 GitHub Trophies</h3>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yas8295&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=4" alt="yas8295's trophies" />
+</div>
+
+<br>
+<hr>
+
 <h3 align="center">🤝 Let's Connect</h3>
 <p align="center">
   <a href="https://wa.me/201280739906" target="_blank">
@@ -104,3 +101,4 @@
   </a>
 </p>
 
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
