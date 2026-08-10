@@ -57,22 +57,29 @@
 * **Edu Station:** A comprehensive digital platform specialized in guiding students and securing international university admissions, providing seamless academic consultation and streamlined pathways for studying abroad.
 * **Gefco (Al-Tamayouz Al-Zahaby):** A corporate digital platform and showcase system for a leading manufacturing and contracting company specializing in architectural glass, aluminum thermal break, and structural facades in Saudi Arabia.
 
-<h3 align="left">GitHub Stats</h3>
+<h3 align="center">📊 GitHub Statistics & Insights</h3>
 <div align="center">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yas8295&layout=compact&theme=dracula" alt=yas8295 />
+  
+  <!-- الإحصائيات العامة (التصنيف، النقاط، واللغات) -->
+  <a href="https://github.com/yas8295">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yas8295&show_icons=true&include_all_commits=true&theme=tokyonight&border_radius=10&rank_icon=github" height="190" />
+  </a>
+  
+  <!-- أكثر اللغات استخداماً -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yas8295&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" height="190" />
+  
+  <!-- الـ Streak (سلسلة المساهمات اليومية) -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yas8295&theme=tokyonight&border_radius=10" height="190" />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=yas8295&show_icons=true&locale=en&theme=dracula" alt="yas8295" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yas8295&theme=dracula" alt="yas8295" /></p>
 </div>
 
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yas8295&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yas8295&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yas8295&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yas8295&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yas8295&theme=2077" height="180em" />
-</div>
+<br>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<h3 align="center">📈 GitHub Activity Summary</h3>
+<div align="center">
+  
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yas8295&theme=tokyonight" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yas8295&theme=tokyonight" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yas8295&theme=tokyonight" />
+  
+</div>
