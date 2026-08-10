@@ -13,7 +13,7 @@
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Robot Says Hi.gif">
     <source media="(prefers-color-scheme: light)" srcset="./Robot Says Hi.gif">
-    <img width="150" alt="Skills Animation" src="./Robot Says Hi.gif"> ɪ'ᴍ ᴍᴏʜᴀᴍᴇᴅ ʏᴀssɪɴ! 
+    <img width="120" alt="Skills Animation" src="./Robot Says Hi.gif"> ɪ'ᴍ ᴍᴏʜᴀᴍᴇᴅ ʏᴀssɪɴ! 
 *Senior Fullstack Developer*
 <br />  
 
