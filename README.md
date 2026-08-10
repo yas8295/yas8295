@@ -5,7 +5,7 @@
   <picture align="right" width="20%">
     <source media="(prefers-color-scheme: dark)" srcset="./Robot Says Hi.gif">
     <source media="(prefers-color-scheme: light)" srcset="./Robot Says Hi.gif">
-    <img align="right" width="20%" alt="Skills Animation" src="./Robot Says Hi.gif" width="100%" height="100%">
+    <img align="right" width="30%" alt="Skills Animation" src="./Robot Says Hi.gif" width="100%" height="100%">
 </div>
 
 <!--Header Name-->
