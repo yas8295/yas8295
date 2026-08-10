@@ -60,15 +60,13 @@
 <h3 align="center">📊 GitHub Statistics & Insights</h3>
 <div align="center">
   
-  <!-- الإحصائيات العامة (التصنيف، النقاط، واللغات) -->
-  <a href="https://github.com/yas8295">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yas8295&show_icons=true&include_all_commits=true&theme=tokyonight&border_radius=10&rank_icon=github" height="190" />
-  </a>
+  <!-- الإحصائيات العامة -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yas8295&show_icons=true&include_all_commits=true&theme=tokyonight&border_radius=10&rank_icon=github" height="190" />
   
-  <!-- أكثر اللغات استخداماً -->
+  <!-- اللغات الأكثر استخداماً -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yas8295&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" height="190" />
   
-  <!-- الـ Streak (سلسلة المساهمات اليومية) -->
+  <!-- الـ Streak -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yas8295&theme=tokyonight&border_radius=10" height="190" />
 
 </div>
