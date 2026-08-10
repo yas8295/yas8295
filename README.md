@@ -7,13 +7,17 @@
 </div>
     
 <!--Header Name-->
-# <picture>
+<div align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Robot Says Hi.gif">
     <source media="(prefers-color-scheme: light)" srcset="./Robot Says Hi.gif">
-    <img width="120" alt="Robot Animation" src="./Robot Says Hi.gif">
-</picture> ɪ'ᴍ ᴍᴏʜᴀᴍᴇᴅ ʏᴀssɪɴ! 
-*Senior Fullstack Developer*
-<br />  
+    <img width="140" alt="Robot Animation" src="./Robot Says Hi.gif">
+  </picture>
+
+  # ɪ'ᴍ ᴍᴏʜᴀᴍᴇᴅ ʏᴀssɪɴ!
+  *Senior Fullstack Developer*
+</div>
+<br />
 
 <!--Start Intro-->                         
 <p align="left">I am a Senior Fullstack Developer with 5+ years of experience architecting and building scalable, high-performance web and mobile applications using React, Next.js, React Native, Node.js, and Express.</p>
