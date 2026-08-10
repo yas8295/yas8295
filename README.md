@@ -6,7 +6,7 @@
 </div>
     
 <!--Header Name-->
-<picture>
+# <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Robot Says Hi.gif">
     <source media="(prefers-color-scheme: light)" srcset="./Robot Says Hi.gif">
     <img width="120" alt="Skills Animation" src="./Robot Says Hi.gif"> ɪ'ᴍ ᴍᴏʜᴀᴍᴇᴅ ʏᴀssɪɴ! 
