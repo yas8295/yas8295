@@ -2,7 +2,10 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <picture align="right" width="40%">
+    <source media="(prefers-color-scheme: dark)" srcset="./Robot Says Hi.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Robot Says Hi.gif">
+    <img alt="Skills Animation" src="./Robot Says Hi.gif" width="100%" height="100%">
 </div>
 
 <!--Header Name-->
@@ -102,14 +105,20 @@
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./whatsapp loop.gif">
     <source media="(prefers-color-scheme: light)" srcset="./whatsapp loop.gif">
-    <img alt="Skills Animation" src="./whatsapp loop.gif" width="40px" height="40px">
+    <img alt="Skills Animation" src="./whatsapp loop.gif" width="60px" height="60px">
   </picture>
   </a>
   <a href="https://mohamed-yassin.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Globe.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Globe.gif">
+    <img alt="Skills Animation" src="./Globe.gif" width="60px" height="60px">
   </a>
   <a href="mailto:mohamedyas8295@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Gmail.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Gmail.gif">
+    <img alt="Skills Animation" src="./Gmail.gif" width="60px" height="60px">
   </a>
 </p>
 
