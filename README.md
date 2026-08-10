@@ -1,8 +1,12 @@
 <!--Banner-->
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <!--Night Owl image-->
-<iframe src="https://lottie.host/embed/22166aec-c2a4-4379-b434-92f39a0c2199/LqyIUtvQZR.lottie"></iframe>
-
+<div>
+  <picture align="right" width="20%">
+    <source media="(prefers-color-scheme: dark)" srcset="./Robot Says Hi.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Robot Says Hi.gif">
+    <img align="right" width="30%" alt="Skills Animation" src="./Robot Says Hi.gif" width="100%" height="100%">
+</div>
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴍᴏʜᴀᴍᴇᴅ ʏᴀssɪɴ! 
 *Senior Fullstack Developer*
