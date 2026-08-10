@@ -7,7 +7,7 @@
 </div>
     
 <!--Header Name-->
-<div align="center">
+<div align="right">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Robot Says Hi.gif">
     <source media="(prefers-color-scheme: light)" srcset="./Robot Says Hi.gif">
