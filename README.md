@@ -100,9 +100,9 @@
 <p align="center">
   <a href="https://wa.me/201280739906" target="_blank">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTN5cXY3ejQ5ZzZoMWt1YnQwc2l5bWpwNXUxNWxqOXJ0djIyb2JqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Af30iuHK6zgZzeBS35/giphy.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTN5cXY3ejQ5ZzZoMWt1YnQwc2l5bWpwNXUxNWxqOXJ0djIyb2JqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Af30iuHK6zgZzeBS35/giphy.gif">
-    <img alt="Skills Animation" src="[./Skills_Animation_White.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTN5cXY3ejQ5ZzZoMWt1YnQwc2l5bWpwNXUxNWxqOXJ0djIyb2JqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Af30iuHK6zgZzeBS35/giphy.gif)" width="20px" height="20px">
+    <source media="(prefers-color-scheme: dark)" srcset="./whatsapp loop.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./whatsapp loop.gif">
+    <img alt="Skills Animation" src="./whatsapp loop.gif" width="40px" height="40px">
   </picture>
   </a>
   <a href="https://mohamed-yassin.vercel.app/" target="_blank">
