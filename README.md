@@ -14,8 +14,8 @@
     <img width="140" alt="Robot Animation" src="./Robot Says Hi.gif">
   </picture>
 
-  # ɪ'ᴍ ᴍᴏʜᴀᴍᴇᴅ ʏᴀssɪɴ!
-  # *Senior Fullstack Developer*
+  ## ɪ'ᴍ ᴍᴏʜᴀᴍᴇᴅ ʏᴀssɪɴ!
+  ## *Senior Fullstack Developer*
 </div>
 <!--Start Intro-->                         
 <p align="left">I am a Senior Fullstack Developer with 5+ years of experience architecting and building scalable, high-performance web and mobile applications using React, Next.js, React Native, Node.js, and Express.</p>
