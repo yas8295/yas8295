@@ -13,7 +13,7 @@
     <source media="(prefers-color-scheme: light)" srcset="./Robot Says Hi.gif">
     <img width="120" alt="Robot Animation" src="./Robot Says Hi.gif">
   </picture>
-  # ɪ'ᴍ ᴍᴏʜᴀᴍᴇᴅ ʏᴀssɪɴ!
+  ɪ'ᴍ ᴍᴏʜᴀᴍᴇᴅ ʏᴀssɪɴ!
  # *Senior Fullstack Developer*
 </div>
 <br />
