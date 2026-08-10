@@ -11,11 +11,10 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Robot Says Hi.gif">
     <source media="(prefers-color-scheme: light)" srcset="./Robot Says Hi.gif">
-    <img width="140" alt="Robot Animation" src="./Robot Says Hi.gif">
+    <img width="120" alt="Robot Animation" src="./Robot Says Hi.gif">
   </picture>
-
   # ɪ'ᴍ ᴍᴏʜᴀᴍᴇᴅ ʏᴀssɪɴ!
-  *Senior Fullstack Developer*
+ # *Senior Fullstack Developer*
 </div>
 <br />
 
