@@ -8,7 +8,7 @@
     
 <!--Header Name-->
 <div align="left">
-  <picture">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./output-onlinegiftools.gif">
     <source media="(prefers-color-scheme: light)" srcset="./output-onlinegiftools.gif">
     <img width="170" alt="Robot Animation" src="./output-onlinegiftools.gif">
