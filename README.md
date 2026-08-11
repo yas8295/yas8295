@@ -111,7 +111,6 @@
       <img alt="WhatsApp" src="./whatsapp loop.gif" width="60px" height="60px">
     </picture>
   </a>
-  &nbsp;&nbsp;
   <a href="https://mohamed-yassin.vercel.app/" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./Globe.gif">
@@ -119,7 +118,6 @@
       <img alt="Portfolio" src="./Globe.gif" width="60px" height="60px">
     </picture>
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:mohamedyas8295@gmail.com" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./Gmail.gif">
